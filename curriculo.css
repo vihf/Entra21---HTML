@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(215, 237, 250);
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #076aa3;
+    color: #000002;
+    padding: 15px 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #076aa3;
+    color: #000002;
+    padding: 15px 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+
